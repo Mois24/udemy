@@ -65,6 +65,17 @@ console.log(typeof(answers));
 const category = 'girls';
 console.log(`https://someurl.com/${category}/6`);
 
-const bro = prompt('Как твое имя, дружище?', '');
-alert(`Привет, ${bro}`);
+/* const bro = prompt('Как твое имя, дружище?', '');
+alert(`Привет, ${bro}`); */
+
+console.log(7%3);
+
+const isChecked = true,
+	isClosed = true;
+
+console.log(isChecked || isClosed);
+
+let ind = 10;
+
+
 
